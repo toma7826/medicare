@@ -16,7 +16,7 @@ Medicare is a comprehensive healthcare management system designed to streamline 
 - **State Management**: React Query
 - **Routing**: React Router
 - **API Integration**: RESTful services
-- **Deployment**: Vercel/Netlify
+- **Deployment**: Vercel
 
 ## Accessibility Considerations
 Medicare is built with accessibility as a core principle:
@@ -86,7 +86,7 @@ medicare/
 ```
 
 ## Deployment
-The application is deployed on [Vercel](https://medicare.vercel.app) for optimal performance and scalability.
+The application is deployed on [Vercel](https://medicare-iota-neon.vercel.app) for optimal performance and scalability.
 
 ## Contributing
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
