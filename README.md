@@ -58,7 +58,7 @@ Medicare is built with accessibility as a core principle:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/medicare.git
+   git clone https://github.com/toma7826/medicare.git
    cd medicare
    ```
 
@@ -96,8 +96,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any queries or support, please reach out to:
-- Email: support@medicare.com
-- GitHub Issues: [Medicare Issues](https://github.com/yourusername/medicare/issues)
+- Email: toma@roehampton.ac.uk
+- GitHub Issues: [Medicare Issues](https://github.com/toma7826/medicare/issues)
 
 ## Acknowledgments
 - React Team for the amazing framework
